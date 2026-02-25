@@ -1,5 +1,5 @@
 １．gitの練習をしていきます。
 ２．基本的なワークフローを学んでいきます。
 ３．もう一度試してみます。
-　　ー git add
-    ー git commit
+４．　ー　git add
+５．　ー　git commit
